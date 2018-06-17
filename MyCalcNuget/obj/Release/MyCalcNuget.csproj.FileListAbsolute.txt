@@ -1,0 +1,6 @@
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\mynuget\bin\Release\mynuget.exe.config
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\mynuget\bin\Release\mynuget.exe
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\mynuget\bin\Release\mynuget.pdb
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\mynuget\obj\Release\MyCalcNuget.csproj.CoreCompileInputs.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\mynuget\obj\Release\mynuget.exe
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\mynuget\obj\Release\mynuget.pdb

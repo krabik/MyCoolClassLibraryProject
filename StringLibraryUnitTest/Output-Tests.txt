@@ -1,0 +1,10 @@
+﻿[16-Jun-18 04:35:03 PM Informational] ------ Discover test started ------
+[16-Jun-18 04:35:05 PM Informational] ========== Discover test finished: 0 found (0:00:02.2849839) ==========
+[16-Jun-18 04:36:20 PM Informational] ------ Discover test started ------
+[16-Jun-18 04:36:20 PM Informational] ========== Discover test finished: 0 found (0:00:00.7046948) ==========
+[16-Jun-18 04:58:27 PM Informational] ------ Run test started ------
+[16-Jun-18 04:58:29 PM Informational] ========== Run test finished: 3 run (0:00:01.5271768) ==========
+[16-Jun-18 05:00:51 PM Informational] ------ Run test started ------
+[16-Jun-18 05:00:51 PM Informational] ========== Run test finished: 3 run (0:00:00.8451041) ==========
+[16-Jun-18 05:03:16 PM Informational] ------ Run test started ------
+[16-Jun-18 05:03:17 PM Informational] ========== Run test finished: 3 run (0:00:00.9681551) ==========

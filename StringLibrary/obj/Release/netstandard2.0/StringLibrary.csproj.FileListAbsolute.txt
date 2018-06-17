@@ -1,0 +1,9 @@
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibrary\bin\Release\netstandard2.0\StringLibrary.deps.json
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibrary\bin\Release\netstandard2.0\StringLibrary.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibrary\bin\Release\netstandard2.0\StringLibrary.pdb
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibrary\obj\Release\netstandard2.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibrary\obj\Release\netstandard2.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibrary\obj\Release\netstandard2.0\StringLibrary.AssemblyInfo.cs
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibrary\obj\Release\netstandard2.0\StringLibrary.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibrary\obj\Release\netstandard2.0\StringLibrary.pdb
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibrary\obj\Release\netstandard2.0\StringLibrary.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\bin\Release\netcoreapp2.0\ShowCase.deps.json
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\bin\Release\netcoreapp2.0\ShowCase.runtimeconfig.json
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\bin\Release\netcoreapp2.0\ShowCase.runtimeconfig.dev.json
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\bin\Release\netcoreapp2.0\ShowCase.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\bin\Release\netcoreapp2.0\ShowCase.pdb
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\bin\Release\netcoreapp2.0\StringLibrary.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\bin\Release\netcoreapp2.0\StringLibrary.pdb
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\obj\Release\netcoreapp2.0\ShowCase.csprojAssemblyReference.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\obj\Release\netcoreapp2.0\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\obj\Release\netcoreapp2.0\ShowCase.AssemblyInfoInputs.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\obj\Release\netcoreapp2.0\ShowCase.AssemblyInfo.cs
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\obj\Release\netcoreapp2.0\ShowCase.csproj.CopyComplete
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\obj\Release\netcoreapp2.0\ShowCase.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\ShowCase\obj\Release\netcoreapp2.0\ShowCase.pdb

@@ -1,0 +1,6 @@
+C:\Users\twrzonski\source\repos\mynuget\mynuget\bin\Debug\mynuget.exe.config
+C:\Users\twrzonski\source\repos\mynuget\mynuget\bin\Debug\mynuget.exe
+C:\Users\twrzonski\source\repos\mynuget\mynuget\bin\Debug\mynuget.pdb
+C:\Users\twrzonski\source\repos\mynuget\mynuget\obj\Debug\MyCalcNuget.csproj.CoreCompileInputs.cache
+C:\Users\twrzonski\source\repos\mynuget\mynuget\obj\Debug\mynuget.exe
+C:\Users\twrzonski\source\repos\mynuget\mynuget\obj\Debug\mynuget.pdb

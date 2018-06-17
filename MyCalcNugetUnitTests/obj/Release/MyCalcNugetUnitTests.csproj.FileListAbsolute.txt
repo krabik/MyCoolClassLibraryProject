@@ -1,0 +1,17 @@
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\mynugetTests.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\mynugetTests.pdb
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\mynuget.exe
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\mynuget.pdb
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\mynuget.exe.config
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\obj\Release\MyCalcNugetUnitTests.csprojAssemblyReference.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\obj\Release\MyCalcNugetUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\obj\Release\MyCalcNugetUnitTests.csproj.CopyComplete
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\obj\Release\mynugetTests.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\MyCalcNugetUnitTests\obj\Release\mynugetTests.pdb

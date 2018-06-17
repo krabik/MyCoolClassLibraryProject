@@ -1,0 +1,17 @@
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\bin\Debug\netcoreapp2.0\StringLibraryUnitTest.deps.json
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\bin\Debug\netcoreapp2.0\StringLibraryUnitTest.runtimeconfig.json
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\bin\Debug\netcoreapp2.0\StringLibraryUnitTest.runtimeconfig.dev.json
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\bin\Debug\netcoreapp2.0\StringLibraryUnitTest.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\bin\Debug\netcoreapp2.0\StringLibraryUnitTest.pdb
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\bin\Debug\netcoreapp2.0\StringLibrary.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\bin\Debug\netcoreapp2.0\StringLibrary.pdb
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\obj\Debug\netcoreapp2.0\StringLibraryUnitTest.csprojAssemblyReference.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\obj\Debug\netcoreapp2.0\StringLibraryUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\obj\Debug\netcoreapp2.0\StringLibraryUnitTest.AssemblyInfoInputs.cache
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\obj\Debug\netcoreapp2.0\StringLibraryUnitTest.AssemblyInfo.cs
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\obj\Debug\netcoreapp2.0\StringLibraryUnitTest.csproj.CopyComplete
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\obj\Debug\netcoreapp2.0\StringLibraryUnitTest.dll
+C:\Users\twrzonski\source\repos\MyCoolClassLibraryProject\StringLibraryUnitTest\obj\Debug\netcoreapp2.0\StringLibraryUnitTest.pdb
