@@ -1,0 +1,2 @@
+# MyCoolClassLibraryProject
+sample .Net project
